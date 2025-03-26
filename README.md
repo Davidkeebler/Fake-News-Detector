@@ -85,6 +85,11 @@ The download cell is within the notebook.
 
 The best model produced by the notebook was the second checkpoint, which had a validation accuracy of 99.9% and a loss value below 0.005. See graphs of training results below.
 
+
+![](https://github.com/Davidkeebler/Fake-News-Detector/blob/main/Images/loss.png)
+![](https://github.com/Davidkeebler/Fake-News-Detector/blob/main/Images/f1.png)
+![](https://github.com/Davidkeebler/Fake-News-Detector/blob/main/Images/accuracy.png)
+
 ## Future Work
 
 Future iterations of this project will focus on:
