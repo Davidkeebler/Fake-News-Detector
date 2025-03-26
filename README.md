@@ -30,7 +30,7 @@ The Jupyter Notebook (`Fake_News_Detector.ipynb`) includes the following key ste
     -      Setting up the optimizer and loss function.
     -      Implementing a training and validation loop.
     -      Saving model checkpoints during training.
-    -   Plotting training and validation metrics.
+    -      Plotting training and validation metrics.
 4.  **Results and Future Improvements:**
     -   Analyzing the training results, including loss, F1 score, and accuracy.
     -   Discussing potential improvements for future iterations, such as:
